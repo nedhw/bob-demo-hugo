@@ -24,7 +24,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "Distinguished Professor of Philosophy - University of Pittsburgh."
     author: Bob Brandom
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -49,7 +49,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr Brandom
+          title: Prof. Dr. Brandom
           subtitle: "Distinguished Professor of Philosophy - University of Pittsburgh. <br> Fellow, American Academy of Arts and Sciences. <br> Fellow, British Academy."
           imageUrl: "bob-leipzig.jpg"
           imageWidth: 160
