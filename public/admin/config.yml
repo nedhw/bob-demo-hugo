@@ -5,7 +5,7 @@ backend:
   branch: main # Change to master if your default branch is named differently
   auth_type: implicit # OAuth implicit flow
   app_id: # Your GitHub OAuth app ID (optional, needed for production)
-  base_url: https://brandom-demo.netlify.app # May need to change this depending on your deployment platform
+  base_url: https://api.netlify.com # May need to change this depending on your deployment platform
 
 # Enable local testing (comment this out for production)
 local_backend: true
