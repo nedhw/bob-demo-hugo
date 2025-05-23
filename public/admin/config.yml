@@ -1,7 +1,11 @@
 # Decap CMS Configuration
 backend:
-  name: git-gateway
-  branch: main # The branch to update
+  name: github
+  repo: nedhw/bob-demo-hugo # Replace with your actual GitHub username/repo (format: username/repo-name)
+  branch: main # Change to master if your default branch is named differently
+  auth_type: implicit # OAuth implicit flow
+  app_id: # Your GitHub OAuth app ID (optional, needed for production)
+  base_url: https://brandom-demo.netlify.app # May need to change this depending on your deployment platform
 
 # Enable local testing (comment this out for production)
 local_backend: true
@@ -18,12 +22,6 @@ media_library:
   name: uploadcare
   config:
     publicKey: # Your uploadcare public key (optional)
-    
-  # Alternative simpler configuration without external services:
-  # name: default
-  # config:
-  #   media_folder: "static/images/uploads"
-  #   public_folder: "/images/uploads"
 
 # Editorial workflow (optional)
 # publish_mode: editorial_workflow
