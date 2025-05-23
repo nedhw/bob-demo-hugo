@@ -101,3 +101,28 @@ A Minimal Two-Sorted Deontic Bilateral Normative Pragmatic Metavocabulary for Re
 + [Video of Week 3 Meeting](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=565f3290-5e6b-4645-808a-b1e80160d139)
 + [Bob's Notes for Week 3](meeting3/Week3-notes.pdf)
 + [Announcement of imminent international meeting on RLLR and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
+
+## Meeting 4: September 18, 2024
+
+A Minimal Two-Sorted Deontic Bilateral Normative Pragmatic Metavocabulary for Reason Relations
+
+##### Suggested reading
+
+[*Reasons for Logic, Logic for Reasons* (2024)]() - Chapter 1.
+
+##### Supplementary
+
++ [MacFarlane "In What Sense (if Any) Is Logic Normative for Thought?" (2004).](meeting3/Macfarlane.pdf)
++ [Simonelli "Why Must Incompatibility Be Symmetric?" (2024).](meeting3/Simonelli.pdf)
+
+##### Background
+
++ [Harman "Logic and Reasoning" (1984)](meeting3/Harman.pdf)
++ [Restall "Multiple Conclusions" (2004)](meeting3/Restall.pdf)
+
+##### Meeting 3 materials
+
++ [Handout for Meeting 3](meeting3/Week3-notes.pdf)
++ [Video of Week 3 Meeting](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=565f3290-5e6b-4645-808a-b1e80160d139)
++ [Bob's Notes for Week 3](meeting3/Week3-notes.pdf)
++ [Announcement of imminent international meeting on RLLR and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
