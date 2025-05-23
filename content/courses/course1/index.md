@@ -149,3 +149,13 @@ The Open Structure of Material Reason Relations
 + [Price, "Why 'Not'?"](meeting5/Price-WN.pdf)
 + [Brandom "An Introduction to Hegelian Logic and Metaphysics"](meeting5/Brandom-UOSTN.pdf)
 + [Hlobil "Choosing your Nonmonotonic Logic: A Shopper's Guide"](meeting5/Hlobil-NL.pdf)
+
+## Meeting 6: October 16, 2024
+
+Logical Expressivism and Expressivist Logic
+
+[*Reasons for Logic, Logic for Reasons* (2024)](meeting6/RLLR-3.pdf) - Chapter 3.
+
+##### Supplementary Material
+
++ ["Semantic Inferentialism and Logical Expressivism" (Chapter 1 of Articulating Reasons).](meeting6/Brandom-AR.pdf)
