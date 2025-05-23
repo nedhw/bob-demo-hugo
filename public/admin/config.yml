@@ -4,7 +4,7 @@ backend:
   repo: nedhw/bob-demo-hugo # Replace with your actual GitHub username/repo (format: username/repo-name)
 
 # Enable local testing (comment this out for production)
-local_backend: true
+# local_backend: true
 
 # Site settings
 site_url: https://brandom-demo.netlify.app # Your production site URL
