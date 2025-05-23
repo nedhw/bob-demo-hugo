@@ -1,7 +1,7 @@
 # Decap CMS Configuration
 backend:
   name: github
-  repo: ned/bob-demo-hugo # Replace with your actual GitHub username/repo (format: username/repo-name)
+  repo: nedhw/bob-demo-hugo # Replace with your actual GitHub username/repo (format: username/repo-name)
   branch: main # Change to master if your default branch is named differently
   auth_type: implicit # OAuth implicit flow
   app_id: # Your GitHub OAuth app ID (optional, needed for production)
