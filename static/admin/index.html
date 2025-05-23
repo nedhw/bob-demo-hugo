@@ -8,17 +8,7 @@
   </head>
   <body>
     <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    
-    <script>
-      // Check if running on localhost for local development
-      if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") {
-        // Load the Netlify CMS proxy server for local development
-        window.CMS_MANUAL_INIT = true;
-        window.decapCmsConfig = {
-          local_backend: true
-        };
-      }
-    </script>
+    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+
   </body>
 </html>
